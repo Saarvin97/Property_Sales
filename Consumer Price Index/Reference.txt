@@ -1,0 +1,1 @@
+URL: https://data.bls.gov/timeseries/CUURS12ASA0?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true

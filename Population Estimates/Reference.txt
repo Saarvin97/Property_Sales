@@ -1,0 +1,9 @@
+URL:	https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k
+
+FIPS Code Reference,
+
+Manhattan		-	FIPS 36061	
+Bronx		-	FIPS 36005
+Brooklyn		-	FIPS 36047
+Queens		-	FIPS 36081
+Staten Island	-	FIPS 36085
